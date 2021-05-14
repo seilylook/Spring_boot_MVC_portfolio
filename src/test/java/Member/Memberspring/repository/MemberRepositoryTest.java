@@ -2,11 +2,10 @@ package Member.Memberspring.repository;
 
 import org.junit.jupiter.api.Test;
 
-public class MemberRepository {
+public class MemberRepositoryTest {
 
     @Test
-    public void Save(Member member){
+    public void test() {
 
     }
-
 }
